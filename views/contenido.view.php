@@ -12,6 +12,7 @@
     <div class="container">
         <h1 class="title">content</h1>
         <a href="cerrar.php">Sign off</a>
+        <hr class="border">
 
         <div class="content">
         <article>
