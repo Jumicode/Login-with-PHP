@@ -28,7 +28,7 @@
     </div>
     <div class="form-group">
     <input type="password" name="password2" class="password_btn" placeholder="Repetir contraseña">
-    <i class="submit-btn fa fa-arrow-right" onclick="login.submit()"></i>
+    <i class="submit-btn fa fa-arrow-right" onclick="login.submit()">Enviar</i>
     </div>
     
     </form>

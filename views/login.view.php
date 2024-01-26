@@ -25,7 +25,7 @@
     
     <div class="form-group">
     <input type="password" name="password" class="password_btn" placeholder=" contraseña">
-    <i class="submit-btn fa fa-arrow-right" onclick="login.submit()"></i>
+    <i class="submit-btn fa fa-arrow-right" onclick="login.submit()">Enviar</i>
     </div>
     
     </form>
