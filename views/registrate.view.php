@@ -33,19 +33,7 @@
 
 
 
-    <?php if(!empty($errores)) ?>
 
-<div class="error">
-    <ul>
-    <?php echo $errores; ?>
-    </ul>
-</div>
-
-
-
-    <?php  ?>
-    
-    
     </form>
         
 
