@@ -28,6 +28,19 @@
     <i class="submit-btn fa fa-arrow-right" onclick="login.submit()">Enviar</i>
     </div>
     
+
+
+
+<?php if(!empty($errores)) ?>
+
+<div class="error">
+    <ul>
+    <?php echo $errores; ?>
+    </ul>
+</div>
+<?php  ?>
+    
+    
     </form>
         
 
